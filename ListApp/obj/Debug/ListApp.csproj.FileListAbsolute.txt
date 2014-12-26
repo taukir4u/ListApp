@@ -1,0 +1,9 @@
+H:\Taukir\ListApp\ListApp\bin\Debug\ListApp.exe.config
+H:\Taukir\ListApp\ListApp\obj\Debug\ListApp.csprojResolveAssemblyReference.cache
+H:\Taukir\ListApp\ListApp\obj\Debug\ListApp.Properties.Resources.resources
+H:\Taukir\ListApp\ListApp\obj\Debug\ListApp.csproj.GenerateResource.Cache
+H:\Taukir\ListApp\ListApp\bin\Debug\ListApp.exe
+H:\Taukir\ListApp\ListApp\bin\Debug\ListApp.pdb
+H:\Taukir\ListApp\ListApp\obj\Debug\ListApp.exe
+H:\Taukir\ListApp\ListApp\obj\Debug\ListApp.pdb
+H:\Taukir\ListApp\ListApp\obj\Debug\ListApp.NumberEntryUI.resources
